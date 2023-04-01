@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- Hi, I'm qngyn 
+- Hi, I'm Quynh Nguyen
 - I'm interested in Front-end Development, Full-Stack Development, and Database. 
 - 👯 I'm looking to collaborate on wide range of topic
 - 🔭 I’m currently working on 
