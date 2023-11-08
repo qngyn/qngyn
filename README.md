@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - Hi, I'm Quynh Nguyen
 - I'm interested in Front-end Development, Full-Stack Development, Mobile Development, and Database. 
 - 👯 I'm looking to collaborate on wide range of topic
-- 🔭 I’m currently working on 
+- 🔭 You can take a look at my portfolio in [here](https://qngyn.netlify.app/)
 - 📫 How to reach me: HERE or [LinkedIn](https://www.linkedin.com/in/quynhnguyen00/) 
 - 😄 Pronouns: She/Her
